@@ -1,4 +1,4 @@
-# kwonyongjun
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonyongjun1)](https://github.com/kwonyongjun1/github-readme-stats)
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
