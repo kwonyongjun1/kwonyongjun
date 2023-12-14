@@ -1,13 +1,9 @@
+#### 👋 Hi there, I`m Webdeveloper
+- I've been working since 2021.05
+- I’m currently learning React.
 
-
-
-
-#### 👋 Hi there, I`m Yongjun
-<br>
-
----
-
-#### 💻Tech Stack
+<br/>
+#### 💻Skills
 <br>
 <div>
   <img src="https://camo.githubusercontent.com/e8a4d22e81fd2a48d3c3181ee45e379c92a242ebeb6d7b4ec2fb2beb7cb7daf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
@@ -19,20 +15,17 @@
   </div>
   
   
+  
   </br>
   
----
-  </br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- devpla's profile -->
+   <!-- devpla's profile -->
    
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=kwonyongjun1&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
   </a>
   
-  </br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
