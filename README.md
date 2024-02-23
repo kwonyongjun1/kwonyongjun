@@ -28,7 +28,9 @@
     <img src = "https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src = "https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> 
   </div>
-  
+  <div>
+   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=Electron&logoColor=white "/>
+  </div>
   
   </br>
   <!--
