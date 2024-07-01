@@ -1,6 +1,5 @@
 #### 👋 Hi there, I`m Webdeveloper
 ##### - I've been working since 2021.05
-##### - I’m currently learning React.
 
 <br/>
 
