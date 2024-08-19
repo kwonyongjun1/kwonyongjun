@@ -1,17 +1,12 @@
 #### 👋 Hi there, I`m Webdeveloper
 ##### - I've been working since 2021.05
 
-<br/>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonyongjun1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### 💻Skills
 <br>
 <div>
 
-
-
-
- 
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -32,21 +27,9 @@
   <div>
    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=Electron&logoColor=white "/>
   </div>
-  
-  </br>
-  <!--
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-    
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kwonyongjun1&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
-  </a>
-
-  -->
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonyongjun1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
